@@ -5,9 +5,7 @@ This project aims to build a machine learning model to detect fake news. The ana
 
 ## Project Structure
 - `fake_news.ipynb`: The Jupyter notebook containing the complete analysis, model training, and evaluation.
-- `data/`: Directory containing the dataset used for the analysis.
-- `models/`: Directory for saving trained models.
-- `images/`: Directory for storing images and visualizations generated during the analysis.
+- `news.csv/`: Containing the dataset used for the analysis.
 
 ## Dataset
 The dataset used in this project consists of news articles labeled as fake or real. The data includes various features such as the article text, title, and other metadata.
